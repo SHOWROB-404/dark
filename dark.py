@@ -489,7 +489,7 @@ def i():
         print('\033[38;5;192m THE PROCESS HAS BEEN STARTED')
 
         print('\033[38;5;192m USE AEROPLANE MOOD IN EVERY 4 MIN ')
-        print(' \033[38;5;45mS-Saimon \033[38;5;46m/ \033[38;5;45mH-HASAN\033[38;5;45m We Are Brother💚')
+        print(' \033[38;5;45mDevil \033[38;5;46m/ \033[38;5;45mShowrob\033[38;5;45m We Are Brother💚')
         print(' \033[38;5;46mWorking Data + Wifi ')
 
         print(' \033[1;93m×××××××××××××××××××××××××××××××××××××××××××××××')
